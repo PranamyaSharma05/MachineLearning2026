@@ -7,3 +7,4 @@ models/
 *.pkl
 *.joblib
 .env
+anaconda_projects/
